@@ -1,0 +1,9 @@
+{
+	"name": "appfactorymatsi",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "742481c9-9c22-4c30-af99-8fed7997492d",
+		"tenantId": "47f8f462-05b2-48e1-a468-5bbf419e8978"
+	}
+}
